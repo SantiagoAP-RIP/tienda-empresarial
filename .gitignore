@@ -1,0 +1,9 @@
+# Archivos locales y temporales
+.vscode/
+*.log
+*.tmp
+.env
+.env.*
+
+# Datos generados por XAMPP
+xampp/
