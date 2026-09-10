@@ -23,6 +23,4 @@ La aplicacion crea la base de datos `tienda_empresarial`, sus tablas y datos ini
 Usuario administrador inicial: `admin@novamarket.com`  
 Contrasena inicial: `admin123`
 
-## Estado de documentacion
 
-Los archivos PDF, PNG y evidencias deben agregarse en las carpetas indicadas cuando esten disponibles.
